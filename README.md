@@ -1,4 +1,24 @@
-# :blue_book: AMI B.Sc. Hausaufgaben :student:
+# :blue_book: AMI B.Sc. Einführung in Data Science :student:
+
+## Gruppe TSRI
+- Christian Rene Thelen @cortex359
+- Leonard Schiel @leo_paticumbum
+- Marine Raimbault @Marine Raimbault
+- Alexander Ivanets @sandrium
+
+
+## Literatur
+
+_Scientific Visualization_ von Nicolas P. Rougier
+
+→ https://github.com/rougier/scientific-visualization-book
+
+
+_Python Data Science Handbook_ von Jake VanderPlas ([O'Reilly](http://shop.oreilly.com/product/0636920034919.do))
+
+→ https://github.com/jakevdp/PythonDataScienceHandbook
+
+## Studium
 
 **Studiengang**
 
@@ -11,9 +31,3 @@ Mathematisch technische/-r Softwareentwickler/-in ([MaTSE](https://www.matse-aus
 **Studienort**
 
 Aachen, im [IT Center](https://www.itc.rwth-aachen.de/cms/IT-Center/Lehre-Ausbildung/~letj/MATSE-Ausbildung) der RWTH Aachen University.
-
-## Gruppe TSRI:
-- Christian Rene Thelen @cortex359
-- Leonard Schiel @leo_paticumbum
-- Marine Raimbault @Marine Raimbault
-- Alexander Ivanets @sandrium
